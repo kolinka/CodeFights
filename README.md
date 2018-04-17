@@ -1,2 +1,5 @@
 # CodeFights
-excercises from codefights.com 
+These are some excercises from codefights.com which I did myself learning java since end of 2017.
+"nazwa klasy1" robi to to i to dla danych wejściowych takich i śmakich
+"nazwa klasy2" ...
+...
